@@ -1,0 +1,1 @@
+export {default as fullLayout} from './Layout/Full';

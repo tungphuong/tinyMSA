@@ -271,3 +271,5 @@ yarn-error.log*
 
 **/*log.txt
 /.vscode
+
+/dist/
